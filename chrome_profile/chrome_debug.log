@@ -1,0 +1,3 @@
+[12988:6608:0831/024244.520:WARNING:third_party\webrtc\p2p\base\stun_port.cc:456] Port[31e1100:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12988:6608:0831/024258.973:WARNING:third_party\webrtc\p2p\base\stun_port.cc:456] Port[31e3400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12988:6608:0831/024311.392:WARNING:third_party\webrtc\media\engine\webrtc_voice_engine.cc:805] Attempting to stop aecdump when no audio processing module is present
